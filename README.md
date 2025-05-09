@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanitrix
 - 👀 I’m interested in DSA and web development
-- 🌱 I’m currently learning DSA with C++
+- 🌱 I have strong programming skills in C/C++, Java, and Python.
 - 📫you can reach me on twiter @oneAman99
 
 <!---
